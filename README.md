@@ -217,11 +217,14 @@ This part integrates **all modules** into a single top-level digital system, rep
    - Verify that the **real hardware behavior** (up/down counting, ±2 minutes, pause, speed control, and error code `55:55`) matches the **ModelSim simulations**.
 
 📷 **Schematic & FPGA implementation:**
+
 1. **Circuit Schematic**
-   ![Fig1](Simulation/circuit_schematic.jpg)
+   
+![Fig1](Simulation/circuit_schematic.jpg)
   
-2. **FPGA Implementation**
-   ![Fig1](Simulation/circuit.jpg)
+3. **FPGA Implementation**
+   
+![Fig1](Simulation/circuit.jpg)
    
 ## ⚖️ License
 
