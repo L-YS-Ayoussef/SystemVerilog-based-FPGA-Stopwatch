@@ -14,7 +14,7 @@ The stopwatch supports **up/down counting**, **pause**, **±2 minute jumps**, **
   - [Part 2 – Add / Subtract 2 Minutes & Limits](#part-2--add--subtract-2-minutes--limits)
   - [Part 3 – Speed Control & Mode Logic](#part-3--speed-control--mode-logic)
   - [Part 4 – Display System (Seven Segment & Flashing)](#part-4--display-system-seven-segment--flashing)
-  - [Part 5 – Main Integrated Circuit](#part-5--main-integrated-circuit)
+  - [Part 5 – Main Integrated Circuit & FPGA Implementation](#part-5--main-integrated-circuit-&-FPGA-Implementation)
 - [License](#license)
 
 ---
